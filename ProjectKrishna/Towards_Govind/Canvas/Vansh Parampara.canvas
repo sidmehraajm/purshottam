@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d21f2fd0b2b721e7","type":"text","text":"Krishna\n","x":-180,"y":-560,"width":250,"height":60},
+		{"id":"220c4531485c923d","x":-255,"y":-420,"width":400,"height":536,"type":"file","file":"Pages/Krishna.md"}
+	],
+	"edges":[]
+}

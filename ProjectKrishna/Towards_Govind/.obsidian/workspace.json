@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "22cacfb848363c30",
+    "type": "split",
+    "children": [
+      {
+        "id": "945d953d64f01964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "876eb7f88398af85",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc69b35956be32ed",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/Vansh Parampara.canvas",
+                "viewState": {
+                  "x": -55,
+                  "y": -132,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0653b5811f1d2597",
+    "type": "split",
+    "children": [
+      {
+        "id": "80450e0eb49bf3da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01aa24501719fbfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4faa4ee184917c4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0bbbaaeec61799b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "815626acb7e0e290",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfa8a5809a4c123e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a84488f2762089f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Canvas/Vansh Parampara.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "316dc9c1f143bcd3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Canvas/Vansh Parampara.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4beb7d24935cfbfd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fdcebf0f09a4a03c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Canvas/Vansh Parampara.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cc69b35956be32ed",
+  "lastOpenFiles": [
+    "Pages/Krishna.md",
+    "Photos/RadhaRaman.jpeg",
+    "Canvas/Vansh Parampara.canvas",
+    "Pages",
+    "Canvas",
+    "Photos",
+    "Bramha.md",
+    "Kashyap.md",
+    "Bramha.png",
+    "Vansh Prampara.canvas",
+    "Pasted image 20231127171954.png",
+    "Pasted image 20231127171720.png",
+    "Bramha Details.md",
+    "Narada.md",
+    "Pasted image 20231127171234.png",
+    "asdddddddd..md",
+    "Pasted image 20231127171058.png",
+    "Pasted image 20231127171013.png.md",
+    "asd.md",
+    "Pasted image 20231127171012.png",
+    "Pasted image 20231127171013.png",
+    "Untitled 1.canvas"
+  ]
+}
