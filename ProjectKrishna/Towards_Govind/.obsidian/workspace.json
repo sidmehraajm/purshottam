@@ -23,9 +23,9 @@
               "state": {
                 "file": "Canvas/Vansh Parampara.canvas",
                 "viewState": {
-                  "x": -55,
-                  "y": -132,
-                  "zoom": 0
+                  "x": -58.89689806511859,
+                  "y": -339.06771328669976,
+                  "zoom": 0.22000000000000003
                 }
               }
             }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 206.5
   },
   "right": {
     "id": "815626acb7e0e290",
@@ -141,11 +141,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
