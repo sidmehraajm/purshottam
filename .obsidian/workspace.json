@@ -11,15 +11,8 @@
             "id": "e1ef6f390d60e706",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Narayan.canvas",
-                "viewState": {
-                  "x": 81.47798933064158,
-                  "y": -155.0230896704137,
-                  "zoom": -1
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narayan.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narayan.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Narayan.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -157,20 +146,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "homepage:Open homepage": false
     }
   },
   "active": "e1ef6f390d60e706",
   "lastOpenFiles": [
-    "Brahma.canvas",
+    "pages/Untitled.md",
+    "pages/Triyug.md",
     "Narayan.canvas",
+    "canvas/Narayan.canvas",
+    "canvas/Brahma.canvas",
+    "pages",
+    "New folder",
+    "canvas",
+    "images/unknown (1).png",
+    "images/Triyugi33_radha_jagannath_867a0ae8-d755-4ac0-8aaa-e107d90b9b6b (1).png",
+    "images/Triyugi33_radha_jagannath_642bba07-164c-4a6a-b07f-df7002e4d555.png",
+    "images/transparent.png",
+    "images/matka123_cosmic_banyan_tree_on_beach_sea_around_universe_backgr_f2f487fe-1b24-4260-b584-696d136e2513.png",
+    "images/Hamix97_aurora_fill_sky_up_endless_flower_plain_at_dusk_8k_high_15157986-b39b-4150-a43b-fe3c87bb7062.png",
+    "images/brahma.jpg",
+    "images",
+    "Brahma.canvas",
     "Triyug.md",
     "pictures/brahma.jpg",
     "Narayan-0.canvas",
@@ -178,11 +181,6 @@
     "Untitled 1 1.canvas",
     "pictures/transparent.png",
     "pictures/Hamix97_aurora_fill_sky_up_endless_flower_plain_at_dusk_8k_high_15157986-b39b-4150-a43b-fe3c87bb7062.png",
-    "pictures/matka123_cosmic_banyan_tree_on_beach_sea_around_universe_backgr_f2f487fe-1b24-4260-b584-696d136e2513.png",
-    "pictures/Triyugi33_radha_jagannath_642bba07-164c-4a6a-b07f-df7002e4d555.png",
-    "pictures/Triyugi33_radha_jagannath_867a0ae8-d755-4ac0-8aaa-e107d90b9b6b (1).png",
-    "pictures/unknown (1).png",
-    "pictures/A_roundel_of_Brahma (1).jpg",
     "pictures",
     "2023-11-27.md"
   ]
