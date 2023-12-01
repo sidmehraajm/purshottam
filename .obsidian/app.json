@@ -3,5 +3,5 @@
   "foldIndent": true,
   "livePreview": true,
   "defaultViewMode": "preview",
-  "foldHeading": false
+  "foldHeading": true
 }
