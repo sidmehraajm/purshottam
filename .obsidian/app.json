@@ -3,5 +3,6 @@
   "foldIndent": true,
   "livePreview": true,
   "defaultViewMode": "preview",
-  "foldHeading": true
+  "foldHeading": true,
+  "alwaysUpdateLinks": true
 }

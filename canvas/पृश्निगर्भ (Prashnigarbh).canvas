@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"78bd031e39eec708","type":"file","file":"images/narayan-cc-image.png","x":-494,"y":-4903,"width":1066,"height":1099},
+		{"id":"f06b9d33b961abc7","type":"text","text":"---\ncss-classes: cc-card-center\n---\n\n![[brahma.jpg]]\n\n>[!cc-footer-noborder] # [[Triyug|ब्रह्मा (Brahma)]]","x":-174,"y":-3390,"width":426,"height":292,"color":"#fe3e8b"},
+		{"id":"3326be6f77331b2d","type":"text","text":"- !!!col\n\t- \n\t\t![[brahma.jpg]]\n\t\t\n\t- \n\t\t\n\t\t# [[Triyug|ब्रह्मा (Brahma)]]","x":436,"y":-3362,"width":500,"height":262,"color":"1"},
+		{"id":"cba7128be70884c7","type":"text","text":"---\ncssclasses: cc-border-double\n---\n\n<span style=\"float: right; padding-right:20\">![[brahma.jpg]]</span>\n<span style=\"position:absolute; top:30; left:30; font-size:9mm\"><b>[[ब्रह्मा (Brahma)|ब्रह्मा (Brahma)]]</b></span>\n\n","x":-895,"y":-3330,"width":481,"height":229,"color":"1"}
+	],
+	"edges":[
+		{"id":"40e362b2a3789ef0","fromNode":"78bd031e39eec708","fromSide":"bottom","toNode":"f06b9d33b961abc7","toSide":"top","color":"4"}
+	]
+}

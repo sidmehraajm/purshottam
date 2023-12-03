@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"dcef7a6586bc7901","type":"text","text":"[[Brahma.canvas|Brahma]]","x":-180,"y":40,"width":250,"height":60},
-		{"id":"00417a6ec454bfe2","type":"text","text":"---\ncssclasses: cc-border-none\n---\n\n![[Triyug]]\n\n>[!cc-footer-noborder] footer","x":500,"y":-656,"width":380,"height":676,"color":"6"},
-		{"id":"da9e11dbd216f25b","type":"file","file":"images/transparent-cc-image.png","x":160,"y":40,"width":400,"height":400},
-		{"id":"e43b4e801c15f039","type":"text","text":"\n---\ncssclasses: cc-border-none\n---\n\n\n![[Triyug]]","x":-320,"y":-720,"width":610,"height":680,"color":"2"}
-	],
-	"edges":[]
-}
