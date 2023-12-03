@@ -2,7 +2,7 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "Narayan.canvas",
+      "value": "canvas/Homepage.canvas",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",
@@ -13,7 +13,7 @@
       "refreshDataview": false,
       "autoCreate": true,
       "autoScroll": false,
-      "pin": false,
+      "pin": true,
       "commands": [],
       "alwaysApply": false,
       "hideReleaseNotes": false

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"359c01fb1a5d9b80","type":"file","file":"images/karanodakasayi vishnu-cc-image.png","x":-720,"y":-400,"width":1360,"height":1809},
+		{"id":"f414b0d3a8d015eb","x":-760,"y":380,"width":160,"height":160,"type":"file","file":"images/prashnigarbh-cc-image.png"},
+		{"id":"1a164e307640b5aa","type":"text","text":"---\ncssclasses: cc-border-none, cc-card-transparent\n---\n# [[prashnigarbh.canvas|पृश्निगर्भ (Prashnigarbh)]]","x":-866,"y":486,"width":304,"height":180}
+	],
+	"edges":[]
+}

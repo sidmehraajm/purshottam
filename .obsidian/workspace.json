@@ -4,19 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bd3a953a51e911e4",
+        "id": "9684e64778642905",
         "type": "tabs",
         "children": [
           {
-            "id": "e1ef6f390d60e706",
+            "id": "340f50c437372482",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "pages/Triyug.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "canvas/Homepage.canvas",
+                "viewState": {
+                  "x": -122.87858694718528,
+                  "y": 496.4363338380763,
+                  "zoom": -0.3939680936989977
+                }
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Triyug.md",
+                "file": "canvas/Homepage.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Triyug.md",
+                "file": "canvas/Homepage.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Triyug.md"
+                "file": "canvas/Homepage.canvas"
               }
             }
           },
@@ -145,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,32 +167,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1ef6f390d60e706",
+  "active": "340f50c437372482",
   "lastOpenFiles": [
+    "canvas/prashnigarbh.canvas",
+    "canvas/Homepage.canvas",
+    "images/prashnigarbh-cc-image.png",
     "canvas/Narayan.canvas",
-    "canvas/Brahma.canvas",
+    "images/karanodakasayi vishnu-cc-image.jpg",
+    "images/karanodakasayi vishnu-cc-image.png",
+    "images/karanodakasayi vishnu-cc-iamge.jpg",
+    "images/karanodakasayi vishnu.jpg",
+    "pages/Untitled.md",
+    "pages/Untitled 1.md",
     "pages/Triyug.md",
+    "canvas/Brahma.canvas",
     "images/Hamix97_aurora_fill_sky_up_endless_flower_plain_at_dusk_8k_high_15157986-b39b-4150-a43b-fe3c87bb7062.png",
     "images/matka123_cosmic_banyan_tree_on_beach_sea_around_universe_backgr_f2f487fe-1b24-4260-b584-696d136e2513.png",
     "images/transparent-cc-image.png",
     "images/Triyugi33_radha_jagannath_642bba07-164c-4a6a-b07f-df7002e4d555.png",
     "images/Triyugi33_radha_jagannath_867a0ae8-d755-4ac0-8aaa-e107d90b9b6b (1).png",
-    "images/unknown (1).png",
-    "pages/Untitled.md",
     "Narayan.canvas",
     "pages",
     "New folder",
     "canvas",
-    "images/brahma.jpg",
     "images",
     "Brahma.canvas",
     "Triyug.md",
-    "pictures/brahma.jpg",
     "Narayan-0.canvas",
-    "Untitled.md",
     "Untitled 1 1.canvas",
-    "pictures/transparent.png",
-    "pictures/Hamix97_aurora_fill_sky_up_endless_flower_plain_at_dusk_8k_high_15157986-b39b-4150-a43b-fe3c87bb7062.png",
     "pictures",
     "2023-11-27.md"
   ]
