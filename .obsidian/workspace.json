@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "canvas/Homepage.canvas",
+                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
                 "viewState": {
-                  "x": 108,
-                  "y": 429.5,
-                  "zoom": -1.1517989240401447
+                  "x": 227.77610373246893,
+                  "y": -3118.487546181295,
+                  "zoom": -0.977750327364914
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canvas/Homepage.canvas",
+                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canvas/Homepage.canvas",
+                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canvas/Homepage.canvas"
+                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas"
               }
             }
           },
@@ -167,10 +167,10 @@
   },
   "active": "0dee6ef856cc8179",
   "lastOpenFiles": [
+    "canvas/Homepage.canvas",
     "pages/ब्रह्मा (Brahma).md",
     "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
     "pages/Triyug.md",
-    "canvas/Homepage.canvas",
     "pages/Karanodakasayi Mahavishnu.md",
     "pages/कृष्ण (Krishna).md",
     "pages/Garbhodakasayi Vishnu.md",
