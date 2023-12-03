@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3482ada755fd928e",
+        "id": "d125e8dfcf8916cd",
         "type": "tabs",
         "children": [
           {
-            "id": "3da7773cb2e79286",
+            "id": "0dee6ef856cc8179",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
+                "file": "canvas/Homepage.canvas",
                 "viewState": {
-                  "x": 28.824947589098542,
-                  "y": -3938.062893081761,
-                  "zoom": -1.39077452285229
+                  "x": 108,
+                  "y": 429.5,
+                  "zoom": -1.1517989240401447
                 }
               }
             }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brahma",
+                "query": "tag:#ब्रह्मा",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
+                "file": "canvas/Homepage.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
+                "file": "canvas/Homepage.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas"
+                "file": "canvas/Homepage.canvas"
               }
             }
           },
@@ -165,16 +165,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3da7773cb2e79286",
+  "active": "0dee6ef856cc8179",
   "lastOpenFiles": [
-    "canvas/Homepage.canvas",
+    "pages/ब्रह्मा (Brahma).md",
     "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
+    "pages/Triyug.md",
+    "canvas/Homepage.canvas",
+    "pages/Karanodakasayi Mahavishnu.md",
+    "pages/कृष्ण (Krishna).md",
+    "pages/Garbhodakasayi Vishnu.md",
     "images/narayan-cc-image.jpg",
     "images/narayan-cc-image.png",
     "canvas/Narayan.canvas",
     "canvas/पृश्निगर्भ (Prashnigarbh)",
-    "pages/ब्रह्मा (Brahma).md",
-    "pages/Triyug.md",
     "images/prashnigarbh-cc-image.png",
     "images/karanodakasayi vishnu-cc-image.jpg",
     "images/karanodakasayi vishnu-cc-image.png",
