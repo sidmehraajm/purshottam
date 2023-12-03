@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d125e8dfcf8916cd",
+        "id": "3cbd2412ec5f01f2",
         "type": "tabs",
         "children": [
           {
-            "id": "0dee6ef856cc8179",
+            "id": "b55a816ae1023ff4",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
+                "file": "canvas/Homepage.canvas",
                 "viewState": {
-                  "x": 227.77610373246893,
-                  "y": -3118.487546181295,
-                  "zoom": -0.977750327364914
+                  "x": 108,
+                  "y": 429.5,
+                  "zoom": -1.1517989240401447
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
+                "file": "canvas/Homepage.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
+                "file": "canvas/Homepage.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas"
+                "file": "canvas/Homepage.canvas"
               }
             }
           },
@@ -165,11 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dee6ef856cc8179",
+  "active": "b55a816ae1023ff4",
   "lastOpenFiles": [
+    "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
     "canvas/Homepage.canvas",
     "pages/ब्रह्मा (Brahma).md",
-    "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
     "pages/Triyug.md",
     "pages/Karanodakasayi Mahavishnu.md",
     "pages/कृष्ण (Krishna).md",
