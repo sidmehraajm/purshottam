@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9684e64778642905",
+        "id": "3482ada755fd928e",
         "type": "tabs",
         "children": [
           {
-            "id": "340f50c437372482",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Homepage.canvas",
-                "viewState": {
-                  "x": -122.87858694718528,
-                  "y": 496.4363338380763,
-                  "zoom": -0.3939680936989977
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "75769f17b7069ce8",
+            "id": "3da7773cb2e79286",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
                 "viewState": {
-                  "x": 24.570751248115187,
-                  "y": -3840.9293652271094,
-                  "zoom": -1.4561094023589498
+                  "x": 28.824947589098542,
+                  "y": -3938.062893081761,
+                  "zoom": -1.39077452285229
                 }
               }
             }
@@ -105,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canvas/Homepage.canvas",
+                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canvas/Homepage.canvas",
+                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canvas/Homepage.canvas"
+                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas"
               }
             }
           },
@@ -182,12 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "340f50c437372482",
+  "active": "3da7773cb2e79286",
   "lastOpenFiles": [
+    "canvas/Homepage.canvas",
     "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
     "images/narayan-cc-image.jpg",
     "images/narayan-cc-image.png",
-    "canvas/Homepage.canvas",
     "canvas/Narayan.canvas",
     "canvas/पृश्निगर्भ (Prashnigarbh)",
     "pages/ब्रह्मा (Brahma).md",
