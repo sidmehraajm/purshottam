@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3cbd2412ec5f01f2",
+        "id": "716903c91435fa80",
         "type": "tabs",
         "children": [
           {
-            "id": "b55a816ae1023ff4",
+            "id": "8bbeb5d928061694",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "canvas/Homepage.canvas",
+                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
                 "viewState": {
-                  "x": 108,
-                  "y": 429.5,
-                  "zoom": -1.1517989240401447
+                  "x": 39,
+                  "y": -4049,
+                  "zoom": -0.977750327364914
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canvas/Homepage.canvas",
+                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canvas/Homepage.canvas",
+                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canvas/Homepage.canvas"
+                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas"
               }
             }
           },
@@ -165,15 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b55a816ae1023ff4",
+  "active": "8bbeb5d928061694",
   "lastOpenFiles": [
-    "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
     "canvas/Homepage.canvas",
-    "pages/ब्रह्मा (Brahma).md",
-    "pages/Triyug.md",
-    "pages/Karanodakasayi Mahavishnu.md",
+    "demo.md",
     "pages/कृष्ण (Krishna).md",
+    "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
     "pages/Garbhodakasayi Vishnu.md",
+    "pages/Karanodakasayi Mahavishnu.md",
+    "pages/ब्रह्मा (Brahma).md",
+    "images/brahma.jpg",
+    "pages/Triyug.md",
     "images/narayan-cc-image.jpg",
     "images/narayan-cc-image.png",
     "canvas/Narayan.canvas",
@@ -186,7 +188,6 @@
     "pages/Untitled 1.md",
     "images/Hamix97_aurora_fill_sky_up_endless_flower_plain_at_dusk_8k_high_15157986-b39b-4150-a43b-fe3c87bb7062.png",
     "images/matka123_cosmic_banyan_tree_on_beach_sea_around_universe_backgr_f2f487fe-1b24-4260-b584-696d136e2513.png",
-    "images/transparent-cc-image.png",
     "Narayan.canvas",
     "pages",
     "New folder",
