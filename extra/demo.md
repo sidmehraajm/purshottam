@@ -12,14 +12,14 @@ helllo
 [SB 12.11.18](https://vedabase.io/en/library/sb/12/11/18/)
 story
 
-3. I love # [[कृष्ण (Krishna)|Vaasudev]].
+3. I love # [[Shri Krishna (श्री कृष्ण)|Vaasudev]].
 
 4. ![[brahma.jpg]]
 
 
-5. [[कृष्ण (Krishna)#ABC|Krishna leela]]
+5. [[Shri Krishna (श्री कृष्ण)#ABC|Krishna leela]]
 
-6. ![[कृष्ण (Krishna)#ABC|Krishna leela]]
+6. ![[Shri Krishna (श्री कृष्ण)#ABC|Krishna leela]]
 
 7. >[!info]- Callout
 >>[!tip]- Callout_tip

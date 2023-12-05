@@ -6,5 +6,6 @@
   "foldHeading": true,
   "alwaysUpdateLinks": true,
   "strictLineBreaks": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "promptDelete": false
 }

@@ -1,42 +1,115 @@
 {
   "main": {
-    "id": "bfe84eb1a33c6fb6",
+    "id": "9eff79a719ec9874",
     "type": "split",
     "children": [
       {
-        "id": "b52850945edf50d1",
+        "id": "b838b86730716470",
         "type": "tabs",
         "children": [
           {
-            "id": "da9a326f3138a0a9",
+            "id": "f24985b2b73c6f82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Arishtanemi(अरिष्टनेमि).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24ecd3d375890bf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Agniveshya(आग्निवेश्य).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8209b4033664590e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "canvas/Homepage.canvas",
+                "file": "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
                 "viewState": {
-                  "x": 108,
-                  "y": 429.5,
-                  "zoom": -1.1517989240401447
+                  "x": 39,
+                  "y": -4049,
+                  "zoom": -1.0713739346799234
                 }
               }
             }
+          },
+          {
+            "id": "b68845ba2aa30fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Dhrishta(धृष्ट).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0be602798e78023d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Jayanta(जयंत).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33d2c38e4a5bb680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Bhasa(भास).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "daf37c09cdbdfad6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Muni HanumanHanuman (वसिष्ठ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fa328487435a05a1",
+    "id": "98d87810e02934f9",
     "type": "split",
     "children": [
       {
-        "id": "30981f8b4cc56779",
+        "id": "9d7f3797c2e68d96",
         "type": "tabs",
         "children": [
           {
-            "id": "b061b299af170485",
+            "id": "2569b91fb3989c0d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,12 +119,12 @@
             }
           },
           {
-            "id": "a43e26c13847e044",
+            "id": "c71fae3d17a9630c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#brahma",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +134,7 @@
             }
           },
           {
-            "id": "a918827df8c39d80",
+            "id": "5369c33517f99efe",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,24 +145,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 332.5
   },
   "right": {
-    "id": "6835973f1abfad3b",
+    "id": "ac6937ec4b827d79",
     "type": "split",
     "children": [
       {
-        "id": "28d27a63fef8ef2d",
+        "id": "6857daeb70d70718",
         "type": "tabs",
         "children": [
           {
-            "id": "b61761bb0004a36a",
+            "id": "1c703cf7338db30d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canvas/Homepage.canvas",
-                "collapseAll": true,
+                "file": "pages/Muni HanumanHanuman (वसिष्ठ).md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -100,59 +173,44 @@
             }
           },
           {
-            "id": "bfcba55860636b8d",
+            "id": "c3928e65fc786893",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canvas/Homepage.canvas",
+                "file": "pages/Muni HanumanHanuman (वसिष्ठ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4c6ec9b7c3a90bfd",
+            "id": "6aaed59632cc06a6",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "fd14fd8d664b14fc",
+            "id": "60cfc93108bb472e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "canvas/Homepage.canvas"
+                "file": "pages/Muni HanumanHanuman (वसिष्ठ).md"
               }
-            }
-          },
-          {
-            "id": "e0849b47ac5357fe",
-            "type": "leaf",
-            "state": {
-              "type": "file-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa9a782ee0ee3cca",
-            "type": "leaf",
-            "state": {
-              "type": "canvas-view",
-              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,39 +223,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da9a326f3138a0a9",
+  "active": "daf37c09cdbdfad6",
   "lastOpenFiles": [
-    "demo.md",
+    "pages/Hanuman Ji (हनुमान).md",
+    "pages/Sushena(सुषेण).md",
+    "pages/Jayanta(जयंत).md",
+    "pages/Dhrishta(धृष्ट).md",
+    "pages/Bhasa(भास).md",
     "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
     "canvas/Homepage.canvas",
-    "pages/ब्रह्मा (Brahma).md",
-    "images/brahma.jpg",
-    "images/narayan-cc-image.png",
-    "pages/कृष्ण (Krishna).md",
-    "pages/Garbhodakasayi Vishnu.md",
-    "pages/Karanodakasayi Mahavishnu.md",
-    "pages/Triyug.md",
-    "images/narayan-cc-image.jpg",
-    "canvas/Narayan.canvas",
-    "canvas/पृश्निगर्भ (Prashnigarbh)",
+    "extra/demo.md",
+    "extra",
+    "pages/Muni Sutikshn (सुतीक्ष्‍ण).md",
+    "pages/Agniveshya(आग्निवेश्य).md",
+    "pages/Karunya(करुन्या).md",
+    "pages/Arishtanemi(अरिष्टनेमि).md",
+    "pages/Apsara Suruchi (सुरुचि).md",
+    "pages/Muni Agastya (अगस्त्य).md",
+    "pages/Muni Vishvamitra(विश्वामित्र).md",
+    "pages/Muni HanumanHanuman (वसिष्ठ).md",
+    "pages/Muni Valmiki (वाल्मीकि).md",
+    "pages/Muni Bharadvaja (भारद्वाज).md",
+    "pages/Muni Bhrigu(भृगु).md",
+    "pages/Dasharatha (दशरथ).md",
+    "pages/Brahma (ब्रह्मा).md",
+    "pages/Bharata (भरत).md",
+    "pages/Karanodakasayi Mahavishnu (कारणोदकशायी).md",
+    "pages/Jambavant (जाम्बवन्त).md",
+    "pages/Garbhodakasayi Vishnu (गर्भोदकशायी).md",
+    "pages/Four Kumars (सनकादि ऋषि).md",
+    "pages/Lakshman (लक्ष्मण).md",
+    "pages/Shri Krishna (श्री कृष्ण).md",
+    "canvas/Map of Material & Spiritual World.canvas",
     "images/prashnigarbh-cc-image.png",
-    "images/karanodakasayi vishnu-cc-image.jpg",
+    "images/narayan-cc-image.png",
+    "images/Map of Universe -cc -image.jpg",
     "images/karanodakasayi vishnu-cc-image.png",
-    "images/karanodakasayi vishnu-cc-iamge.jpg",
-    "images/karanodakasayi vishnu.jpg",
-    "pages/Untitled 1.md",
-    "images/Hamix97_aurora_fill_sky_up_endless_flower_plain_at_dusk_8k_high_15157986-b39b-4150-a43b-fe3c87bb7062.png",
-    "images/matka123_cosmic_banyan_tree_on_beach_sea_around_universe_backgr_f2f487fe-1b24-4260-b584-696d136e2513.png",
-    "Narayan.canvas",
-    "pages",
-    "New folder",
-    "canvas",
-    "images",
-    "Brahma.canvas",
-    "Triyug.md",
-    "Narayan-0.canvas",
-    "Untitled 1 1.canvas",
-    "pictures",
-    "2023-11-27.md"
+    "images/brahma.jpg"
   ]
 }

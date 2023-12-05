@@ -2,9 +2,9 @@
 	"nodes":[
 		{"id":"359c01fb1a5d9b80","type":"file","file":"images/karanodakasayi vishnu-cc-image.png","x":-612,"y":-416,"width":1360,"height":1809,"color":"3"},
 		{"id":"f414b0d3a8d015eb","type":"file","file":"images/prashnigarbh-cc-image.png","x":-718,"y":570,"width":160,"height":160},
-		{"id":"1a164e307640b5aa","type":"text","text":"---\ncssclasses: cc-border-none, cc-card-transparent\n---\n# [[पृश्निगर्भ (Prashnigarbh).canvas|पृश्निगर्भ (Prashnigarbh)]]","x":-824,"y":676,"width":244,"height":127},
-		{"id":"b3c4de0b4be8a55b","type":"text","text":"---\ncssclasses: cc-border-none, cc-card-transparent\n---\n<span style=\"position: absolute; top:20; font-size:15mm\"><b>[[Karanodakasayi Mahavishnu]]</b></span>","x":442,"y":104,"width":598,"height":282},
-		{"id":"e3eb933f734ab3d3","type":"text","text":"---\ncssclasses: cc-border-none, cc-card-transparent\n---\n<span style=\"position: absolute; top:20; font-size:25mm\"><b>[[कृष्ण (Krishna)]]</b></span>","x":-239,"y":-534,"width":695,"height":181}
+		{"id":"1a164e307640b5aa","type":"text","text":"---\ncssclasses: cc-border-none, cc-card-transparent\n---\n# [[पृश्निगर्भ (Prashnigarbh).canvas|पृश्निगर्भ (Prashnigarbh)]]","x":-824,"y":676,"width":257,"height":127},
+		{"id":"b3c4de0b4be8a55b","type":"text","text":"---\ncssclasses: cc-border-none, cc-card-transparent\n---\n<span style=\"position: absolute; top:20; font-size:15mm\"><b>[[Karanodakasayi Mahavishnu (कारणोदकशायी)]]</b></span>","x":442,"y":104,"width":598,"height":282},
+		{"id":"e3eb933f734ab3d3","type":"text","text":"---\ncssclasses: cc-border-none, cc-card-transparent\n---\n<span style=\"position: absolute; top:20; font-size:25mm\"><b>[[Shri Krishna (श्री कृष्ण)]]</b></span>","x":-239,"y":-534,"width":695,"height":181}
 	],
 	"edges":[
 		{"id":"9a443c8c187966d8","fromNode":"e3eb933f734ab3d3","fromSide":"bottom","toNode":"b3c4de0b4be8a55b","toSide":"top","color":"3"},
