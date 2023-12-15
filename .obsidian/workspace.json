@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "89e46eec5845d821",
+        "id": "e6fb8d17234a1c2a",
         "type": "tabs",
         "children": [
           {
-            "id": "cd06daa76b1af779",
+            "id": "ccd587c3970f1a06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "pages/common people/Sushena(सुषेण).md",
-                "mode": "preview",
-                "source": false
+                "file": "others/Pasted image 20231207192508.png"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 200
   },
   "right": {
     "id": "ac6937ec4b827d79",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/common people/Sushena(सुषेण).md",
+                "file": "others/Pasted image 20231207192508.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/common people/Sushena(सुषेण).md",
+                "file": "others/Pasted image 20231207192508.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/common people/Sushena(सुषेण).md"
+                "file": "others/Pasted image 20231207192508.png"
               }
             }
           }
@@ -147,8 +145,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd06daa76b1af779",
+  "active": "ccd587c3970f1a06",
   "lastOpenFiles": [
+    "others/Gaudiya Vansh Parampara.canvas",
+    "canvas/Homepage.canvas",
+    "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
+    "mantrana kushal jayant drishti.md",
+    "others/Pasted image 20231207192508.png",
+    "canvas/Map of Material & Spiritual World.canvas",
+    "pages/common people/Sushena(सुषेण).md",
     "pages/common people/Karunya(करुन्या).md",
     "pages/common people/Jayanta(जयंत).md",
     "pages/common people/Dhrishta(धृष्ट).md",
@@ -164,7 +169,6 @@
     "pages/queens",
     "template/demo.md",
     "template/person template.md",
-    "pages/common people/Sushena(सुषेण).md",
     "pages/munis/Sanaka (सनक).md",
     "pages/other species/Hanuman Ji (हनुमन्).md",
     "pages/other species/Jambavant (जाम्बवन्त).md",
@@ -175,19 +179,14 @@
     "pages/demi gods",
     "pages/kings/Bharata (भरत).md",
     "pages/munis/Muni Arishtanemi(अरिष्टनेमि).md",
-    "canvas/Homepage.canvas",
     "pages/common people",
     "pages/apsaras",
     "pages/kings",
     "pages/munis",
     "template",
     "pages/Untitled.md",
-    "Untitled.md",
     "pages/munis/Sanāt-Kumāra (सनत-कुमार).md",
-    "pages/munis/Muni Vasiṣṭha (वसिष्ठ).md",
-    "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
     "others",
-    "canvas/Map of Material & Spiritual World.canvas",
     "images/prashnigarbh-cc-image.png",
     "images/narayan-cc-image.png",
     "images/Map of Universe -cc -image.jpg",
