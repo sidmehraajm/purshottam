@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "69f440210befd5e2",
+        "id": "4c3190f1fa1168c8",
         "type": "tabs",
         "children": [
           {
-            "id": "772df1c193f84d50",
+            "id": "a242afed7d49f988",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md",
+                "file": "pages/common people/Agniveshya(आग्निवेश्य).md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md",
+                "file": "pages/common people/Agniveshya(आग्निवेश्य).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md",
+                "file": "pages/common people/Agniveshya(आग्निवेश्य).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md"
+                "file": "pages/common people/Agniveshya(आग्निवेश्य).md"
               }
             }
           },
@@ -163,21 +163,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "772df1c193f84d50",
+  "active": "a242afed7d49f988",
   "lastOpenFiles": [
+    "pages/kings/Arishtanemi (अरिष्टनेमि).md",
+    "pages/devtas/Indra (इंद्र ).md",
+    "pages/common people/Agniveshya(आग्निवेश्य).md",
+    "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
+    "canvas/Homepage.canvas",
+    "canvas/Map of Material & Spiritual World.canvas",
     "pages/kings/Dasharatha (दशरथ).md",
     "pages/munis/Four Kumars (सनकादि ऋषि).md",
     "template/demo.md",
-    "pages/kings/Arishtanemi (अरिष्टनेमि).md",
     "pages/kings/Bharata (भरत).md",
     "pages/munis/Muni Agastya (अगस्त्य).md",
-    "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
     "pages/common people/Karunya (कारुण्य).md",
     "images/Karunya.jpg",
-    "pages/common people/Agniveshya(आग्निवेश्य).md",
     "images/Agniveshya.jpg",
-    "canvas/Homepage.canvas",
-    "canvas/Map of Material & Spiritual World.canvas",
     "pages/common people/Bhasa(भास).md",
     "pages/common people/Dhrishta(धृष्ट).md",
     "pages/common people/Jayanta(जयंत).md",
@@ -193,10 +194,8 @@
     "pages/munis/Muni Parāśara (पराशर).md",
     "pages/munis/Muni Bhrigu (भृगु).md",
     "pages/munis/Muni Bharadvaja (भारद्वाज).md",
-    "pages/devtas/Indra (इंद्र ).md",
     "pages/avatars and plenary portions of krsna/Brahma (ब्रह्मा).md",
     "pages/devtas",
-    "template/person template.md",
     "others/Gaudiya Vansh Parampara.canvas",
     "images/brahma.jpg",
     "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
