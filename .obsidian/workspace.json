@@ -15,9 +15,9 @@
               "state": {
                 "file": "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
                 "viewState": {
-                  "x": 1682.5229510433196,
-                  "y": -3028.780558127998,
-                  "zoom": -0.19970654530245852
+                  "x": 822.5,
+                  "y": -3761.5,
+                  "zoom": -1.396373211969125
                 }
               }
             }
@@ -168,14 +168,16 @@
   },
   "active": "a242afed7d49f988",
   "lastOpenFiles": [
-    "template/demo.md",
+    "canvas/Map of Material & Spiritual World.canvas",
+    "canvas/Homepage.canvas",
     "pages/munis/Muni Agastya (अगस्त्य).md",
+    "images/Untitled.canvas",
+    "pininfo.md",
+    "template/demo.md",
+    "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
     "pages/kings/Arishtanemi (अरिष्टनेमि).md",
     "pages/common people/Agniveshya(आग्निवेश्य).md",
-    "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
     "pages/devtas/Indra (इंद्र ).md",
-    "canvas/Homepage.canvas",
-    "canvas/Map of Material & Spiritual World.canvas",
     "pages/kings/Dasharatha (दशरथ).md",
     "pages/munis/Four Kumars (सनकादि ऋषि).md",
     "pages/kings/Bharata (भरत).md",
@@ -197,7 +199,6 @@
     "pages/munis/Muni Parāśara (पराशर).md",
     "pages/munis/Muni Bhrigu (भृगु).md",
     "pages/munis/Muni Bharadvaja (भारद्वाज).md",
-    "pages/avatars and plenary portions of krsna/Brahma (ब्रह्मा).md",
     "pages/devtas",
     "others/Gaudiya Vansh Parampara.canvas",
     "images/brahma.jpg",
@@ -221,7 +222,6 @@
     "images/karanodakasayi vishnu-cc-iamge.jpg",
     "Narayan.canvas",
     "Brahma.canvas",
-    "Narayan-0.canvas",
-    "Untitled 1 1.canvas"
+    "Narayan-0.canvas"
   ]
 }
