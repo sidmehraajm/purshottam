@@ -2,9 +2,12 @@
 	"nodes":[
 		{"id":"78bd031e39eec708","type":"file","file":"images/narayan-cc-image.png","x":-494,"y":-4903,"width":1066,"height":1099},
 		{"id":"cba7128be70884c7","type":"text","text":"---\ncssclasses: cc-border-double\n---\n\n<span style=\"float: left; padding-right:20\">![[brahma.jpg]]</span>\n<span style=\"position: absolute; bottom:10; font-size:15mm\"><b>[[Brahma (ब्रह्मा)]]</b></span>\n\n<span style=\"position: absolute; top:20; font-size:5mm\"><b>#ब्रह्मा #Brahma</b></span>\n\n","x":-253,"y":-3392,"width":582,"height":197,"color":"5"},
-		{"id":"4f1eae85ab38f3aa","type":"text","text":"---\ncssclasses: cc-border-none, cc-card-transparent\n---\n<span style=\"position: absolute; top:20; font-size:20mm\"><b>[[Garbhodakasayi Vishnu (गर्भोदकशायी)]]</b></span>","x":-374,"y":-3917,"width":894,"height":282}
+		{"id":"4f1eae85ab38f3aa","type":"text","text":"---\ncssclasses: cc-border-none, cc-card-transparent\n---\n<span style=\"position: absolute; top:20; font-size:20mm\"><b>[[Garbhodakasayi Vishnu (गर्भोदकशायी)]]</b></span>","x":-374,"y":-3917,"width":894,"height":282},
+		{"id":"7287ae85045aaf45","type":"text","text":"---\ncssclasses: cc-border-double\n---\n\n<span style=\"float: left; padding-right:20\">![[Agniveshya.jpg]]</span>\n<span style=\"position: absolute; bottom:10; font-size:15mm\"><b>[[Agniveshya(आग्निवेश्य)]]</b></span>\n\n<span style=\"position: absolute; top:20; font-size:5mm\"><b>#yogvasistha</b></span>\n\n","x":1339,"y":-3373,"width":800,"height":198,"color":"5"},
+		{"id":"35fa7dad1a365f20","type":"text","text":"---\ncssclasses: cc-border-double\n---\n\n<span style=\"float: left; padding-right:20\">![[Karunya.jpg]]</span>\n<span style=\"position: absolute; bottom:10; font-size:15mm\"><b>[[Karunya (कारुण्य)]]</b></span>\n\n<span style=\"position: absolute; top:20; font-size:5mm\"><b>#yogvasistha</b></span>\n\n","x":1408,"y":-2818,"width":675,"height":198,"color":"5"}
 	],
 	"edges":[
-		{"id":"40e362b2a3789ef0","fromNode":"78bd031e39eec708","fromSide":"bottom","toNode":"cba7128be70884c7","toSide":"top","color":"4"}
+		{"id":"40e362b2a3789ef0","fromNode":"78bd031e39eec708","fromSide":"bottom","toNode":"cba7128be70884c7","toSide":"top","color":"4"},
+		{"id":"890cff985e704d4f","fromNode":"7287ae85045aaf45","fromSide":"bottom","toNode":"35fa7dad1a365f20","toSide":"top","color":"5"}
 	]
 }

@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "13fdb59cb98c87f6",
+        "id": "69f440210befd5e2",
         "type": "tabs",
         "children": [
           {
-            "id": "6e0482b1738ca6e0",
+            "id": "772df1c193f84d50",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "canvas/Homepage.canvas",
-                "viewState": {
-                  "x": 108,
-                  "y": 420.5,
-                  "zoom": -1.1652125076179778
-                }
+                "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canvas/Homepage.canvas",
+                "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canvas/Homepage.canvas",
+                "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canvas/Homepage.canvas"
+                "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md"
               }
             }
           },
@@ -152,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,37 +163,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e0482b1738ca6e0",
+  "active": "772df1c193f84d50",
   "lastOpenFiles": [
-    "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
-    "canvas/Map of Material & Spiritual World.canvas",
-    "pages/kings/Arishtanemi (अरिष्टनेमि).md",
-    "pages/devtas/Indra (इंद्र ).md",
-    "pages/munis/Four Kumars (सनकादि ऋषि).md",
-    "canvas/Homepage.canvas",
-    "pages/kings/Bharata (भरत).md",
     "pages/kings/Dasharatha (दशरथ).md",
-    "pages/munis/Muni Valmiki (वाल्मीकि).md",
-    "pages/munis/Muni Vasiṣṭha (वसिष्ठ).md",
+    "pages/munis/Four Kumars (सनकादि ऋषि).md",
+    "template/demo.md",
+    "pages/kings/Arishtanemi (अरिष्टनेमि).md",
+    "pages/kings/Bharata (भरत).md",
     "pages/munis/Muni Agastya (अगस्त्य).md",
-    "pages/common people/Agniveshya(आग्निवेश्य).md",
-    "pages/common people/Bhasa(भास).md",
-    "pages/avatars and plenary portions of krsna/Brahma (ब्रह्मा).md",
+    "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
     "pages/common people/Karunya (कारुण्य).md",
-    "pages/common people/Sushena(सुषेण).md",
-    "pages/devtas",
-    "template/person template.md",
-    "pages/other species/Jambavant (जाम्बवन्त).md",
-    "pages/other species/Hanuman Ji (हनुमन्).md",
-    "pages/avatars and plenary portions of krsna/Shri Krishna (श्री कृष्ण).md",
-    "pages/avatars and plenary portions of krsna/Shree Ram (श्री राम).md",
-    "pages/avatars and plenary portions of krsna/Lakshman (लक्ष्मण).md",
-    "pages/avatars and plenary portions of krsna/Karanodakasayi Mahavishnu (कारणोदकशायी).md",
-    "pages/avatars and plenary portions of krsna/Garbhodakasayi Vishnu (गर्भोदकशायी).md",
-    "pages/apsaras/Apsara Suruchi (सुरुचि).md",
+    "images/Karunya.jpg",
+    "pages/common people/Agniveshya(आग्निवेश्य).md",
+    "images/Agniveshya.jpg",
+    "canvas/Homepage.canvas",
+    "canvas/Map of Material & Spiritual World.canvas",
+    "pages/common people/Bhasa(भास).md",
     "pages/common people/Dhrishta(धृष्ट).md",
     "pages/common people/Jayanta(जयंत).md",
+    "pages/common people/Sushena(सुषेण).md",
+    "pages/munis/Muni Sutikshn (सुतीक्ष्‍ण).md",
+    "pages/munis/Sanātana (सनातन).md",
+    "pages/munis/Sanāt-Kumāra (सनत-कुमार).md",
+    "pages/munis/Sanandana (सनन्दन).md",
+    "pages/munis/Sanaka (सनक).md",
+    "pages/munis/Muni Vishvamitra (विश्वामित्र).md",
+    "pages/munis/Muni Vasiṣṭha (वसिष्ठ).md",
+    "pages/munis/Muni Valmiki (वाल्मीकि).md",
+    "pages/munis/Muni Parāśara (पराशर).md",
+    "pages/munis/Muni Bhrigu (भृगु).md",
     "pages/munis/Muni Bharadvaja (भारद्वाज).md",
+    "pages/devtas/Indra (इंद्र ).md",
+    "pages/avatars and plenary portions of krsna/Brahma (ब्रह्मा).md",
+    "pages/devtas",
+    "template/person template.md",
     "others/Gaudiya Vansh Parampara.canvas",
     "images/brahma.jpg",
     "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
@@ -216,8 +217,6 @@
     "images/karanodakasayi vishnu-cc-image.jpg",
     "images/karanodakasayi vishnu-cc-image.png",
     "images/karanodakasayi vishnu-cc-iamge.jpg",
-    "images/karanodakasayi vishnu.jpg",
-    "images/Hamix97_aurora_fill_sky_up_endless_flower_plain_at_dusk_8k_high_15157986-b39b-4150-a43b-fe3c87bb7062.png",
     "Narayan.canvas",
     "Brahma.canvas",
     "Narayan-0.canvas",

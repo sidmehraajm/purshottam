@@ -5,6 +5,7 @@
     "callout",
     "extended-colorschemes"
   ],
-  "cssTheme": "Everforest",
-  "theme": "obsidian"
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "translucency": false
 }
