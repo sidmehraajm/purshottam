@@ -2,5 +2,7 @@
   "snapToObjects": false,
   "snapToGrid": false,
   "defaultWheelBehavior": "zoom",
-  "zoomBreakpoint": 2.39
+  "zoomBreakpoint": 2.39,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "canvas"
 }

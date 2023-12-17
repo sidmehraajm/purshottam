@@ -1,8 +1,10 @@
 {
-  "accentColor": "#fdac3a",
+  "accentColor": "",
   "enabledCssSnippets": [
-    "canvas-candy"
+    "canvas-candy",
+    "callout",
+    "extended-colorschemes"
   ],
-  "cssTheme": "",
+  "cssTheme": "Everforest",
   "theme": "obsidian"
 }

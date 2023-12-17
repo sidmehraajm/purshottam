@@ -1,0 +1,4 @@
+.callout[data-callout="intro"] {
+    --callout-color: 195, 226, 194;
+    --callout-icon: lucide-book-open-check;
+}

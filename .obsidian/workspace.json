@@ -1,19 +1,24 @@
 {
   "main": {
-    "id": "9eff79a719ec9874",
+    "id": "bfe84eb1a33c6fb6",
     "type": "split",
     "children": [
       {
-        "id": "e6fb8d17234a1c2a",
+        "id": "13fdb59cb98c87f6",
         "type": "tabs",
         "children": [
           {
-            "id": "ccd587c3970f1a06",
+            "id": "6e0482b1738ca6e0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "others/Pasted image 20231207192508.png"
+                "file": "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
+                "viewState": {
+                  "x": -48.10860010897926,
+                  "y": -3739.3517281878185,
+                  "zoom": -1.3333333333333333
+                }
               }
             }
           }
@@ -23,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "98d87810e02934f9",
+    "id": "fa328487435a05a1",
     "type": "split",
     "children": [
       {
-        "id": "9d7f3797c2e68d96",
+        "id": "30981f8b4cc56779",
         "type": "tabs",
         "children": [
           {
-            "id": "2569b91fb3989c0d",
+            "id": "b061b299af170485",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,12 +46,12 @@
             }
           },
           {
-            "id": "c71fae3d17a9630c",
+            "id": "a43e26c13847e044",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#yogvasistha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +61,7 @@
             }
           },
           {
-            "id": "5369c33517f99efe",
+            "id": "a918827df8c39d80",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -67,24 +72,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "ac6937ec4b827d79",
+    "id": "6835973f1abfad3b",
     "type": "split",
     "children": [
       {
-        "id": "6857daeb70d70718",
+        "id": "28d27a63fef8ef2d",
         "type": "tabs",
         "children": [
           {
-            "id": "1c703cf7338db30d",
+            "id": "b61761bb0004a36a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "others/Pasted image 20231207192508.png",
-                "collapseAll": false,
+                "file": "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -95,44 +100,59 @@
             }
           },
           {
-            "id": "c3928e65fc786893",
+            "id": "bfcba55860636b8d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "others/Pasted image 20231207192508.png",
+                "file": "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6aaed59632cc06a6",
+            "id": "4c6ec9b7c3a90bfd",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "60cfc93108bb472e",
+            "id": "fd14fd8d664b14fc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "others/Pasted image 20231207192508.png"
+                "file": "canvas/Prashnigarbh (पृश्निगर्भ).canvas"
               }
+            }
+          },
+          {
+            "id": "e0849b47ac5357fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa9a782ee0ee3cca",
+            "type": "leaf",
+            "state": {
+              "type": "canvas-view",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,52 +165,62 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccd587c3970f1a06",
+  "active": "6e0482b1738ca6e0",
   "lastOpenFiles": [
-    "others/Gaudiya Vansh Parampara.canvas",
+    "canvas/Map of Material & Spiritual World.canvas",
+    "pages/kings/Arishtanemi (अरिष्टनेमि).md",
+    "pages/devtas/Indra (इंद्र ).md",
+    "pages/munis/Four Kumars (सनकादि ऋषि).md",
     "canvas/Homepage.canvas",
     "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
-    "mantrana kushal jayant drishti.md",
-    "others/Pasted image 20231207192508.png",
-    "canvas/Map of Material & Spiritual World.canvas",
-    "pages/common people/Sushena(सुषेण).md",
-    "pages/common people/Karunya(करुन्या).md",
-    "pages/common people/Jayanta(जयंत).md",
-    "pages/common people/Dhrishta(धृष्ट).md",
-    "pages/common people/Bhasa(भास).md",
+    "pages/kings/Bharata (भरत).md",
+    "pages/kings/Dasharatha (दशरथ).md",
+    "pages/munis/Muni Valmiki (वाल्मीकि).md",
+    "pages/munis/Muni Vasiṣṭha (वसिष्ठ).md",
+    "pages/munis/Muni Agastya (अगस्त्य).md",
     "pages/common people/Agniveshya(आग्निवेश्य).md",
+    "pages/common people/Bhasa(भास).md",
+    "pages/avatars and plenary portions of krsna/Brahma (ब्रह्मा).md",
+    "pages/common people/Karunya (कारुण्य).md",
+    "pages/common people/Sushena(सुषेण).md",
+    "pages/devtas",
+    "template/person template.md",
+    "pages/other species/Jambavant (जाम्बवन्त).md",
+    "pages/other species/Hanuman Ji (हनुमन्).md",
     "pages/avatars and plenary portions of krsna/Shri Krishna (श्री कृष्ण).md",
     "pages/avatars and plenary portions of krsna/Shree Ram (श्री राम).md",
     "pages/avatars and plenary portions of krsna/Lakshman (लक्ष्मण).md",
     "pages/avatars and plenary portions of krsna/Karanodakasayi Mahavishnu (कारणोदकशायी).md",
     "pages/avatars and plenary portions of krsna/Garbhodakasayi Vishnu (गर्भोदकशायी).md",
-    "pages/avatars and plenary portions of krsna/Brahma (ब्रह्मा).md",
     "pages/apsaras/Apsara Suruchi (सुरुचि).md",
-    "pages/queens",
-    "template/demo.md",
-    "template/person template.md",
-    "pages/munis/Sanaka (सनक).md",
-    "pages/other species/Hanuman Ji (हनुमन्).md",
-    "pages/other species/Jambavant (जाम्बवन्त).md",
-    "pages/other species",
-    "pages/munis/Four Kumars (सनकादि ऋषि).md",
-    "pages/kings/Dasharatha (दशरथ).md",
-    "pages/avatars and plenary portions of krsna",
-    "pages/demi gods",
-    "pages/kings/Bharata (भरत).md",
-    "pages/munis/Muni Arishtanemi(अरिष्टनेमि).md",
-    "pages/common people",
-    "pages/apsaras",
-    "pages/kings",
-    "pages/munis",
+    "pages/common people/Dhrishta(धृष्ट).md",
+    "pages/common people/Jayanta(जयंत).md",
+    "pages/munis/Muni Bharadvaja (भारद्वाज).md",
+    "others/Gaudiya Vansh Parampara.canvas",
+    "images/brahma.jpg",
+    "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
     "template",
-    "pages/Untitled.md",
-    "pages/munis/Sanāt-Kumāra (सनत-कुमार).md",
+    "pages/other species",
+    "pages/munis",
+    "pages/kings",
+    "pages/common people",
+    "pages/avatars and plenary portions of krsna",
+    "pages/apsaras",
     "others",
-    "images/prashnigarbh-cc-image.png",
-    "images/narayan-cc-image.png",
     "images/Map of Universe -cc -image.jpg",
+    "images/narayan-cc-image.png",
+    "images/narayan-cc-image.jpg",
+    "canvas/Narayan.canvas",
+    "canvas/पृश्निगर्भ (Prashnigarbh)",
+    "images/prashnigarbh-cc-image.png",
+    "images/karanodakasayi vishnu-cc-image.jpg",
     "images/karanodakasayi vishnu-cc-image.png",
-    "images/brahma.jpg"
+    "images/karanodakasayi vishnu-cc-iamge.jpg",
+    "images/karanodakasayi vishnu.jpg",
+    "images/Hamix97_aurora_fill_sky_up_endless_flower_plain_at_dusk_8k_high_15157986-b39b-4150-a43b-fe3c87bb7062.png",
+    "Narayan.canvas",
+    "Brahma.canvas",
+    "Narayan-0.canvas",
+    "Untitled 1 1.canvas"
   ]
 }
