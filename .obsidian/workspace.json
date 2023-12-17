@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
+                "file": "canvas/Homepage.canvas",
                 "viewState": {
-                  "x": -48.10860010897926,
-                  "y": -3739.3517281878185,
-                  "zoom": -1.3333333333333333
+                  "x": 108,
+                  "y": 420.5,
+                  "zoom": -1.1652125076179778
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
+                "file": "canvas/Homepage.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
+                "file": "canvas/Homepage.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canvas/Prashnigarbh (पृश्निगर्भ).canvas"
+                "file": "canvas/Homepage.canvas"
               }
             }
           },
@@ -167,12 +167,12 @@
   },
   "active": "6e0482b1738ca6e0",
   "lastOpenFiles": [
+    "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
     "canvas/Map of Material & Spiritual World.canvas",
     "pages/kings/Arishtanemi (अरिष्टनेमि).md",
     "pages/devtas/Indra (इंद्र ).md",
     "pages/munis/Four Kumars (सनकादि ऋषि).md",
     "canvas/Homepage.canvas",
-    "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
     "pages/kings/Bharata (भरत).md",
     "pages/kings/Dasharatha (दशरथ).md",
     "pages/munis/Muni Valmiki (वाल्मीकि).md",
