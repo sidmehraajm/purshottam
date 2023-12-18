@@ -1,7 +1,7 @@
 {
   "attachmentFolderPath": "others",
   "foldIndent": true,
-  "livePreview": true,
+  "livePreview": false,
   "defaultViewMode": "preview",
   "foldHeading": true,
   "alwaysUpdateLinks": true,

@@ -1,4 +1,24 @@
 .callout[data-callout="intro"] {
     --callout-color: 195, 226, 194;
-    --callout-icon: lucide-book-open-check;
+    --callout-icon: lucide-list;
+}
+
+.callout[data-callout="yv"] {
+    --callout-color: 224, 142, 109;
+    --callout-icon: lucide-triangle;
+}
+
+.callout[data-callout="bp"] {
+    --callout-color: 174, 189, 202;
+    --callout-icon: lucide-crown;
+}
+
+.callout[data-callout="vr"] {
+    --callout-color: 255, 185, 154;
+    --callout-icon: lucide-feather;
+}
+
+.callout[data-callout="gs"] {
+    --callout-color: 195, 226, 194;
+    --callout-icon: lucide-leaf;
 }

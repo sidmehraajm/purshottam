@@ -19,13 +19,20 @@ border: off
 --- end-multi-column
 
 
-![[Agniveshya.jpg]]
->[!intro] Basic Info
->- 1
->- 2
+>[!yv]-  Yogvasistha #yogvasistha 
+>- This is point 1.
+>- This is point 2.
+><span style="font-size: 3.3mm; color: #6DB9EF "><b>( varagya prakran, sarg 1 )
 
-- 1
-- 2
-#yogvasistha <span style="font-size: 3.3mm; color: #6DB9EF "><b>( varagya prakran, sarg 1 )
+>[!bp]-  Bhagvat Puran #bhagvat_puran
+># H1
+>---
+>## H2
+>### H3
+>#### H4
+>##### H5
+>###### H6
 
->[!example]-  Yogvasistha #yogvasistha 
+>[!vr]-  Valmiki Ramayan #valmiki_ramayan
+
+>[!gs]-  Garg Samhita #garg_samhita
