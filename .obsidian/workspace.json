@@ -6,23 +6,92 @@
       {
         "id": "4c3190f1fa1168c8",
         "type": "tabs",
+        "dimension": 69.60659898477158,
         "children": [
           {
             "id": "a242afed7d49f988",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
-                "viewState": {
-                  "x": 822.5,
-                  "y": -3761.5,
-                  "zoom": -1.396373211969125
-                }
+                "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
-            }
+            },
+            "group": "cbef40ee2aa007c5"
           }
         ]
+      },
+      {
+        "id": "8a3adda7749d4f6e",
+        "type": "split",
+        "dimension": 30.393401015228427,
+        "children": [
+          {
+            "id": "f162ad1995d8377c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6d0bb3fddce54803",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1.42708333333333,
+                      "lineSizeMultiplier": 2.42239583333333,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7132754626224423,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "cbef40ee2aa007c5"
+              }
+            ]
+          },
+          {
+            "id": "1653ae9e9e6e13d2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "88daf09c78b50225",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "pages/common people/Agniveshya(आग्निवेश्य).md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -88,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
+                "file": "pages/common people/Agniveshya(आग्निवेश्य).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
+                "file": "pages/common people/Agniveshya(आग्निवेश्य).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canvas/Prashnigarbh (पृश्निगर्भ).canvas"
+                "file": "pages/common people/Agniveshya(आग्निवेश्य).md"
               }
             }
           },
@@ -152,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
+    "width": 442.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -166,39 +235,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a242afed7d49f988",
+  "active": "88daf09c78b50225",
   "lastOpenFiles": [
+    "pages/devtas/Indra (इंद्र ).md",
+    "pages/munis/Muni Valmiki (वाल्मीकि).md",
+    "pages/common people/Agniveshya(आग्निवेश्य).md",
+    "pages/avatars and plenary portions of krsna/Shree Ram (श्री राम).md",
+    "pages/kings/Arishtanemi (अरिष्टनेमि).md",
+    "pages/common people/Bhasa(भास).md",
+    "pages/common people/Dhrishta(धृष्ट).md",
+    "pages/common people/Jayanta(जयंत).md",
+    "pages/common people/Karunya (कारुण्य).md",
+    "template/demo.md",
+    "pages/munis/Muni Sutikshn (सुतीक्ष्‍ण).md",
+    "pages/avatars and plenary portions of krsna/Shri Krishna (श्री कृष्ण).md",
+    "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
     "canvas/Map of Material & Spiritual World.canvas",
     "canvas/Homepage.canvas",
     "pages/munis/Muni Agastya (अगस्त्य).md",
     "images/Untitled.canvas",
     "pininfo.md",
-    "template/demo.md",
-    "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
-    "pages/kings/Arishtanemi (अरिष्टनेमि).md",
-    "pages/common people/Agniveshya(आग्निवेश्य).md",
-    "pages/devtas/Indra (इंद्र ).md",
     "pages/kings/Dasharatha (दशरथ).md",
     "pages/munis/Four Kumars (सनकादि ऋषि).md",
     "pages/kings/Bharata (भरत).md",
-    "pages/common people/Karunya (कारुण्य).md",
     "images/Karunya.jpg",
     "images/Agniveshya.jpg",
-    "pages/common people/Bhasa(भास).md",
-    "pages/common people/Dhrishta(धृष्ट).md",
-    "pages/common people/Jayanta(जयंत).md",
     "pages/common people/Sushena(सुषेण).md",
-    "pages/munis/Muni Sutikshn (सुतीक्ष्‍ण).md",
     "pages/munis/Sanātana (सनातन).md",
     "pages/munis/Sanāt-Kumāra (सनत-कुमार).md",
     "pages/munis/Sanandana (सनन्दन).md",
     "pages/munis/Sanaka (सनक).md",
     "pages/munis/Muni Vishvamitra (विश्वामित्र).md",
     "pages/munis/Muni Vasiṣṭha (वसिष्ठ).md",
-    "pages/munis/Muni Valmiki (वाल्मीकि).md",
     "pages/munis/Muni Parāśara (पराशर).md",
     "pages/munis/Muni Bhrigu (भृगु).md",
-    "pages/munis/Muni Bharadvaja (भारद्वाज).md",
     "pages/devtas",
     "others/Gaudiya Vansh Parampara.canvas",
     "images/brahma.jpg",
