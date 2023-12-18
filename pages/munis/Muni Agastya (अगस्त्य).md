@@ -1,4 +1,4 @@
->[!intro]- Basic Info
+>[!intro] Basic Info
 >- Brahman (ब्राह्मण)
 >- Also known as Agatsi (in #yogvasistha).
 

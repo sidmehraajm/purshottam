@@ -8,5 +8,6 @@
   "strictLineBreaks": false,
   "showLineNumber": true,
   "promptDelete": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "readableLineLength": true
 }
