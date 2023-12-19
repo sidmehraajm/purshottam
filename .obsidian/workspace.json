@@ -4,22 +4,92 @@
     "type": "split",
     "children": [
       {
-        "id": "b244a4b6c2d7b2d3",
+        "id": "8fc3ba5070cd1120",
         "type": "tabs",
+        "dimension": 74.1751269035533,
         "children": [
           {
-            "id": "902a06b5f7e82f32",
+            "id": "ab410c817c89a270",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/munis/Muni Sutikshn (सुतीक्ष्‍ण).md",
+                "file": "pages/common people/Agniveshya(आग्निवेश्य).md",
                 "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "ae242f21c49b2fb9"
           }
         ]
+      },
+      {
+        "id": "b7bb39ddc6712c56",
+        "type": "split",
+        "dimension": 25.824873096446698,
+        "children": [
+          {
+            "id": "c10605c1e7db35a2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cdc9e5b5a3bda842",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "pages/common people/Agniveshya(आग्निवेश्य).md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "ae242f21c49b2fb9"
+              }
+            ]
+          },
+          {
+            "id": "e884186244a188bd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e964371efb90ac8d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/munis/Muni Sutikshn (सुतीक्ष्‍ण).md",
+                "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/munis/Muni Sutikshn (सुतीक्ष्‍ण).md",
+                "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/munis/Muni Sutikshn (सुतीक्ष्‍ण).md"
+                "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md"
               }
             }
           },
@@ -163,11 +233,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "902a06b5f7e82f32",
+  "active": "e964371efb90ac8d",
   "lastOpenFiles": [
+    "pages/munis/Muni Valmiki (वाल्मीकि).md",
+    "pages/common people/Agniveshya(आग्निवेश्य).md",
+    "template/person template.md",
+    "template/Image Gallery.md",
+    "template/demo.md",
+    "canvas/Homepage.canvas",
     "pages/munis/Muni Agastya (अगस्त्य).md",
     "pages/munis/Muni Sutikshn (सुतीक्ष्‍ण).md",
-    "pages/munis/Muni Valmiki (वाल्मीकि).md",
     "pages/munis/Muni Parāśara (पराशर).md",
     "pages/munis/Muni Bhrigu (भृगु).md",
     "pages/munis/Muni Bharadvaja (भारद्वाज).md",
@@ -176,12 +251,10 @@
     "pages/kings/Arishtanemi (अरिष्टनेमि).md",
     "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
     "template/Person Template.md",
-    "template/Image Gallery.md",
     "pages/common people/Karunya (कारुण्य).md",
     "images/arishtanemi_1.jpg",
     "images/arishtanemi.jpg",
     "canvas/Untitled.canvas",
-    "pages/common people/Agniveshya(आग्निवेश्य).md",
     "images/agniveshya.jpg",
     "images/agastya_1.jpg",
     "images/2359563-59313eb9de55bedec34376b1b9332233_d3c57fd.jpg",
@@ -192,8 +265,6 @@
     "pages/common people/Dhrishta(धृष्ट).md",
     "pages/common people/Bhasa(भास).md",
     "pages/common people/Jayanta(जयंत).md",
-    "template/demo.md",
-    "canvas/Homepage.canvas",
     "canvas/Map of Material & Spiritual World.canvas",
     "images/karanodakasayi vishnu-cc-image.png",
     "pages/devtas/Indra (इंद्र ).md",
@@ -205,7 +276,6 @@
     "images/Agniveshya.jpg",
     "pages/munis/Sanātana (सनातन).md",
     "pages/munis/Sanāt-Kumāra (सनत-कुमार).md",
-    "pages/munis/Sanandana (सनन्दन).md",
     "pages/devtas",
     "others/Gaudiya Vansh Parampara.canvas",
     "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
