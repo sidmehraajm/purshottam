@@ -4,92 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "8fc3ba5070cd1120",
+        "id": "c10605c1e7db35a2",
         "type": "tabs",
-        "dimension": 74.1751269035533,
         "children": [
           {
-            "id": "ab410c817c89a270",
+            "id": "b81dbc0d7191c1a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "pages/common people/Agniveshya(आग्निवेश्य).md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "ae242f21c49b2fb9"
-          }
-        ]
-      },
-      {
-        "id": "b7bb39ddc6712c56",
-        "type": "split",
-        "dimension": 25.824873096446698,
-        "children": [
-          {
-            "id": "c10605c1e7db35a2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cdc9e5b5a3bda842",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "pages/common people/Agniveshya(आग्निवेश्य).md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 1,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "ae242f21c49b2fb9"
-              }
-            ]
-          },
-          {
-            "id": "e884186244a188bd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e964371efb90ac8d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md",
-                    "mode": "preview",
-                    "source": true
-                  }
+                "file": "others/Gaudiya Vansh Parampara.canvas",
+                "viewState": {
+                  "x": -157.6704522167372,
+                  "y": 874.4774068783545,
+                  "zoom": -1.6666666666666663
                 }
               }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,8 +51,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bhagvatpuran",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -155,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md",
+                "file": "others/Gaudiya Vansh Parampara.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md",
+                "file": "others/Gaudiya Vansh Parampara.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/kings/Arishtanemi (अरिष्टनेमि).md"
+                "file": "others/Gaudiya Vansh Parampara.canvas"
               }
             }
           },
@@ -233,25 +166,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e964371efb90ac8d",
+  "active": "b061b299af170485",
   "lastOpenFiles": [
-    "pages/munis/Muni Valmiki (वाल्मीकि).md",
-    "pages/common people/Agniveshya(आग्निवेश्य).md",
-    "template/person template.md",
-    "template/Image Gallery.md",
-    "template/demo.md",
     "canvas/Homepage.canvas",
-    "pages/munis/Muni Agastya (अगस्त्य).md",
+    "canvas/Map of Material & Spiritual World.canvas",
+    "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
+    "others/Gaudiya Vansh Parampara.canvas",
+    "pages/kings/Arishtanemi (अरिष्टनेमि).md",
     "pages/munis/Muni Sutikshn (सुतीक्ष्‍ण).md",
+    "pages/common people/Sushena(सुषेण).md",
+    "template/demo.md",
+    "pages/common people/Agniveshya(आग्निवेश्य).md",
+    "pages/avatars and plenary portions of krsna/Shri Krishna (श्री कृष्ण).md",
+    "template/Image Gallery.md",
+    "template/person template.md",
+    "images/ram_gallery_1/arishtanemi_1.jpg",
+    "images/ram_gallery_1/arishtanemi.jpg",
+    "images/ram_gallery_1/Agniveshya.jpg",
+    "images/ram_gallery_1/brahma.jpg",
+    "images/ram_gallery_1",
+    "images/New folder",
+    "pages/munis/Muni Agastya (अगस्त्य).md",
+    "pages/kings/Dasharatha (दशरथ).md",
+    "pages/kings/Bharata (भरत).md",
+    "pages/common people/Bhasa(भास).md",
+    "pages/common people/Dhrishta(धृष्ट).md",
+    "pages/common people/Karunya (कारुण्य).md",
+    "pages/common people/Jayanta(जयंत).md",
+    "pages/munis/Muni Valmiki (वाल्मीकि).md",
     "pages/munis/Muni Parāśara (पराशर).md",
     "pages/munis/Muni Bhrigu (भृगु).md",
     "pages/munis/Muni Bharadvaja (भारद्वाज).md",
-    "pages/kings/Dasharatha (दशरथ).md",
-    "pages/kings/Bharata (भरत).md",
-    "pages/kings/Arishtanemi (अरिष्टनेमि).md",
-    "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
     "template/Person Template.md",
-    "pages/common people/Karunya (कारुण्य).md",
     "images/arishtanemi_1.jpg",
     "images/arishtanemi.jpg",
     "canvas/Untitled.canvas",
@@ -259,25 +205,13 @@
     "images/agastya_1.jpg",
     "images/2359563-59313eb9de55bedec34376b1b9332233_d3c57fd.jpg",
     "images/karunya.jpg",
-    "images/agastya.jpg",
     "pages/munis/Four Kumars (सनकादि ऋषि).md",
-    "pages/common people/Sushena(सुषेण).md",
-    "pages/common people/Dhrishta(धृष्ट).md",
-    "pages/common people/Bhasa(भास).md",
-    "pages/common people/Jayanta(जयंत).md",
-    "canvas/Map of Material & Spiritual World.canvas",
-    "images/karanodakasayi vishnu-cc-image.png",
     "pages/devtas/Indra (इंद्र ).md",
     "pages/avatars and plenary portions of krsna/Shree Ram (श्री राम).md",
-    "pages/avatars and plenary portions of krsna/Shri Krishna (श्री कृष्ण).md",
     "images/Untitled.canvas",
     "pininfo.md",
-    "images/Karunya.jpg",
-    "images/Agniveshya.jpg",
     "pages/munis/Sanātana (सनातन).md",
-    "pages/munis/Sanāt-Kumāra (सनत-कुमार).md",
     "pages/devtas",
-    "others/Gaudiya Vansh Parampara.canvas",
     "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
     "template",
     "pages/other species",
@@ -286,9 +220,7 @@
     "pages/common people",
     "pages/avatars and plenary portions of krsna",
     "pages/apsaras",
-    "others",
     "canvas/Narayan.canvas",
-    "canvas/पृश्निगर्भ (Prashnigarbh)",
     "Narayan.canvas",
     "Brahma.canvas"
   ]

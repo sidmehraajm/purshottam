@@ -22,7 +22,7 @@ border: off
 >[!yv]-  Yogvasistha #yogvasistha 
 >- This is point 1.
 >- This is point 2.
-><span style="font-size: 3.3mm; color: #6DB9EF "><b>( varagya prakran, sarg 1 )
+><span style="font-size: 3.3mm; color: #6DB9EF "><b>( varagya prakran, sarg 2 ) (YV.VP.S2)
 
 >[!bp]-  Bhagvat Puran #bhagvat_puran
 ># H1
