@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c10605c1e7db35a2",
+        "id": "b0d770f6324af60c",
         "type": "tabs",
         "children": [
           {
-            "id": "b81dbc0d7191c1a0",
+            "id": "1b80933f888c990b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "others/Gaudiya Vansh Parampara.canvas",
-                "viewState": {
-                  "x": -157.6704522167372,
-                  "y": 874.4774068783545,
-                  "zoom": -1.6666666666666663
-                }
+                "file": "pages/munis/Agastya Muni(अगस्त्य).md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "others/Gaudiya Vansh Parampara.canvas",
+                "file": "pages/munis/Agastya Muni(अगस्त्य).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "others/Gaudiya Vansh Parampara.canvas",
+                "file": "pages/munis/Agastya Muni(अगस्त्य).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "others/Gaudiya Vansh Parampara.canvas"
+                "file": "pages/munis/Agastya Muni(अगस्त्य).md"
               }
             }
           },
@@ -166,51 +163,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b061b299af170485",
+  "active": "1b80933f888c990b",
   "lastOpenFiles": [
+    "pages/munis/Sutikshn Muni (सुतीक्ष्‍ण).md",
+    "pages/munis/Muni Parāśara (पराशर).md",
+    "pages/munis/Muni Bharadvaja (भारद्वाज).md",
+    "pages/munis/Agastya Muni(अगस्त्य).md",
+    "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
+    "images/sutikshn_1.png",
+    "images/lnvz3p5k8lr51.png",
+    "images/sutikshn.jpg",
+    "pages/munis/Muni Valmiki (वाल्मीकि).md",
+    "pages/munis/Muni Vasiṣṭha (वसिष्ठ).md",
+    "pages/munis/Muni Vishvamitra (विश्वामित्र).md",
+    "pages/common people/Karunya (कारुण्य).md",
+    "pages/common people/Sushena(सुषेण).md",
+    "pages/kings/Arishtanemi (अरिष्टनेमि).md",
+    "pages/common people/Agniveshya(आग्निवेश्य).md",
+    "template/person template.md",
+    "template/Image Gallery.md",
+    "pages/munis/Four Kumars (सनकादि ऋषि).md",
+    "pages/common people/Bhasa(भास).md",
+    "pages/common people/Dhrishta(धृष्ट).md",
+    "pages/common people/Jayanta(जयंत).md",
+    "pages/munis/Sanātana (सनातन).md",
+    "pages/munis/Sanāt-Kumāra (सनत-कुमार).md",
+    "pages/munis/Sanandana (सनन्दन).md",
+    "pages/munis/Sanaka (सनक).md",
     "canvas/Homepage.canvas",
     "canvas/Map of Material & Spiritual World.canvas",
-    "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
     "others/Gaudiya Vansh Parampara.canvas",
-    "pages/kings/Arishtanemi (अरिष्टनेमि).md",
-    "pages/munis/Muni Sutikshn (सुतीक्ष्‍ण).md",
-    "pages/common people/Sushena(सुषेण).md",
     "template/demo.md",
-    "pages/common people/Agniveshya(आग्निवेश्य).md",
     "pages/avatars and plenary portions of krsna/Shri Krishna (श्री कृष्ण).md",
-    "template/Image Gallery.md",
-    "template/person template.md",
     "images/ram_gallery_1/arishtanemi_1.jpg",
     "images/ram_gallery_1/arishtanemi.jpg",
     "images/ram_gallery_1/Agniveshya.jpg",
     "images/ram_gallery_1/brahma.jpg",
     "images/ram_gallery_1",
     "images/New folder",
-    "pages/munis/Muni Agastya (अगस्त्य).md",
     "pages/kings/Dasharatha (दशरथ).md",
     "pages/kings/Bharata (भरत).md",
-    "pages/common people/Bhasa(भास).md",
-    "pages/common people/Dhrishta(धृष्ट).md",
-    "pages/common people/Karunya (कारुण्य).md",
-    "pages/common people/Jayanta(जयंत).md",
-    "pages/munis/Muni Valmiki (वाल्मीकि).md",
-    "pages/munis/Muni Parāśara (पराशर).md",
     "pages/munis/Muni Bhrigu (भृगु).md",
-    "pages/munis/Muni Bharadvaja (भारद्वाज).md",
-    "template/Person Template.md",
     "images/arishtanemi_1.jpg",
     "images/arishtanemi.jpg",
     "canvas/Untitled.canvas",
     "images/agniveshya.jpg",
-    "images/agastya_1.jpg",
-    "images/2359563-59313eb9de55bedec34376b1b9332233_d3c57fd.jpg",
-    "images/karunya.jpg",
-    "pages/munis/Four Kumars (सनकादि ऋषि).md",
-    "pages/devtas/Indra (इंद्र ).md",
-    "pages/avatars and plenary portions of krsna/Shree Ram (श्री राम).md",
     "images/Untitled.canvas",
-    "pininfo.md",
-    "pages/munis/Sanātana (सनातन).md",
     "pages/devtas",
     "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
     "template",

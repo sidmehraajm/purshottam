@@ -17,5 +17,5 @@ border: off
 
 
 >[!yv]-  Yogvasistha #yogvasistha 
->- Part of the conversation of [[Muni Agastya (अगस्त्य)]] and [[Muni Sutikshn (सुतीक्ष्‍ण)]] in Yogvashisht. Listened Yogvashisht from his father [[Agniveshya(आग्निवेश्य)]] when he got detached from the world and stopped doing his *nitya* karma after graduation from gurukul.
-><span style="font-size: 3.3mm; color: #6DB9EF "><b>( varagya prakran, sarg 1 )
+>- Part of the conversation of [[Agastya Muni(अगस्त्य)]] and [[Sutikshn Muni (सुतीक्ष्‍ण)]] in Yogvashisht. Listened Yogvashisht from his father [[Agniveshya(आग्निवेश्य)]] when he got detached from the world and stopped doing his *nitya* karma after graduation from gurukul.
+><span style="font-size: 3.3mm; color: #6DB9EF "><b>( varagya prakran, sarg 1 ) ( YV.VP.S1 )

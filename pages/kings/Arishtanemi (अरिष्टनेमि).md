@@ -17,4 +17,4 @@ border: off
 
 >[!yv]-  Yogvasistha #yogvasistha 
 >- Rejected the offer of *swarga* from [[Indra (इंद्र )]] when he started meditating on *Gandamadan Parvat*. Also, listened Yogvasisht from [[Muni Valmiki (वाल्मीकि)]] and asked questions about [[Shree Ram (श्री राम)]].
-><span style="font-size: 3.3mm; color: #6DB9EF "><b>( varagya prakran, sarg 1 )
+><span style="font-size: 3.3mm; color: #6DB9EF "><b>( varagya prakran, sarg 1 ) ( YV.VP.S1 )
