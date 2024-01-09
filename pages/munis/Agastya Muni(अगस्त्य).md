@@ -18,4 +18,4 @@ border: off
 >[!yv]-  Yogvasistha #yogvasistha 
 >- Recited Yogvasistha to [[Sutikshn Muni (सुतीक्ष्‍ण)]]. 
 >- Yogvasistha starts from the conversation of [[Agastya Muni(अगस्त्य)]] and [[Sutikshn Muni (सुतीक्ष्‍ण)]]. 
-><span style="font-size: 3.3mm; color: #6DB9EF "><b>( varagya prakran, sarg 1 ) ( YV.VP.S1 )
+><span style="font-size: 3.3mm; color: #6DB9EF "><b>( varagya prakran, sarg 1 ) ( YV.VP.1.0 )
