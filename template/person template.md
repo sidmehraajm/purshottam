@@ -22,17 +22,18 @@ border: off
 >[!yv]-  Yogvasistha #yogvasistha 
 >- This is point 1.
 >- This is point 2.
-><span style="font-size: 3.3mm; color: #6DB9EF "><b>( varagya prakran, sarg 2 ) (YV.VP.S2)
+><span style="font-size: 3.3mm; color: #6DB9EF "><b>( varagya prakran, 2.0 ) (YV.VP.2.0)
 
 >[!bp]-  Bhagvat Puran #bhagvat_puran
-># H1
->---
->## H2
->### H3
->#### H4
->##### H5
->###### H6
+><span style="font-size: 3.3mm; color: #6DB9EF "><b>(SB.10.59.26)
 
 >[!vr]-  Valmiki Ramayan #valmiki_ramayan
+><span style="font-size: 3.3mm; color: #6DB9EF "><b>(baal kand, 2.23) (VR.BLK.2.23)
+><span style="font-size: 3.3mm; color: #6DB9EF "><b>(ayodhya kand, 2.23) (VR.AYK.2.23)
+><span style="font-size: 3.3mm; color: #6DB9EF "><b>(aryanya kand, 2.23) (VR.ARK.2.23)
+><span style="font-size: 3.3mm; color: #6DB9EF "><b>(kishkinda kand, 2.23) (VR.KKK.2.23)
+><span style="font-size: 3.3mm; color: #6DB9EF "><b>(sundar kand, 2.23) (VR.SNK.2.23)
+><span style="font-size: 3.3mm; color: #6DB9EF "><b>(yuddha kand, 2.23) (VR.YUK.2.23)
+><span style="font-size: 3.3mm; color: #6DB9EF "><b>(uttar kand, 2.23) (VR.UTK.2.23)
 
 >[!gs]-  Garg Samhita #garg_samhita
