@@ -43,7 +43,7 @@
 		{"id":"ea9211d7d36e0724","type":"text","text":"Jiva Goswami","x":-20,"y":1006,"width":250,"height":60,"color":"3"},
 		{"id":"bc6b2234013dcf9e","type":"text","text":"Gopal Bhatta Goaswami","x":260,"y":1006,"width":250,"height":60,"color":"3"},
 		{"id":"0e05ddb95467445d","type":"text","text":"Sri Sampradaya","x":260,"y":-348,"width":250,"height":50},
-		{"id":"8eee75af0b4d4820","x":540,"y":1006,"width":250,"height":60,"color":"3","type":"text","text":"Raghunatha Bhatta Goswami"}
+		{"id":"8eee75af0b4d4820","type":"text","text":"Raghunatha Bhatta Goswami","x":540,"y":1006,"width":250,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"474be80e42fdf759","fromNode":"cb40b30c043ae16b","fromSide":"bottom","toNode":"9f9e6c0dbccb7fae","toSide":"top"},
