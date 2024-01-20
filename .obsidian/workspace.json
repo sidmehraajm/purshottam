@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "278b1edf7032f7d2",
+        "id": "6309428ec1248b66",
         "type": "tabs",
         "children": [
           {
-            "id": "78f11e81da673a37",
+            "id": "63facf444a8c358c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/munis/Agastya Muni(अगस्त्य).md",
+                "file": "template/person template.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/munis/Agastya Muni(अगस्त्य).md",
+                "file": "template/person template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/munis/Agastya Muni(अगस्त्य).md",
+                "file": "template/person template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/munis/Agastya Muni(अगस्त्य).md"
+                "file": "template/person template.md"
               }
             }
           },
@@ -160,12 +160,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "78f11e81da673a37",
+  "active": "63facf444a8c358c",
   "lastOpenFiles": [
+    "pages/apsaras/Apsara Suruchi (सुरुचि).md",
+    "pages/apsaras/Untitled.md",
+    "template/person template.md",
+    "pages/common people/Untitled.md",
+    "pages/other species/Jambavant (जाम्बवन्त).md",
     "pages/other species/Hanuman Ji (हनुमन्).md",
+    "template/demo.md",
+    "canvas/Homepage.canvas",
     "pages/munis/Sutikshn Muni (सुतीक्ष्‍ण).md",
     "pages/munis/Sanātana (सनातन).md",
     "pages/munis/Sanāt-Kumāra (सनत-कुमार).md",
@@ -185,13 +193,6 @@
     "pages/devtas/Indra (इंद्र ).md",
     "pages/common people/Sushena(सुषेण).md",
     "pages/common people/Karunya (कारुण्य).md",
-    "pages/common people/Jayanta(जयंत).md",
-    "pages/common people/Dhrishta(धृष्ट).md",
-    "pages/common people/Bhasa(भास).md",
-    "pages/common people/Agniveshya(आग्निवेश्य).md",
-    "template/person template.md",
-    "template/demo.md",
-    "canvas/Homepage.canvas",
     "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
     "images/sutikshn_1.png",
     "images/lnvz3p5k8lr51.png",
