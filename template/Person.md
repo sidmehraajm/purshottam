@@ -5,7 +5,7 @@
 #### Descendants:
 #### Previous Life:
 #### Appeared in: 
-
+#### Spiritual Master: 
 ---
 
 # Scriptural References 
