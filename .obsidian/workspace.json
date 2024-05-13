@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6309428ec1248b66",
+        "id": "c5b5608c86aa221e",
         "type": "tabs",
         "children": [
           {
-            "id": "63facf444a8c358c",
+            "id": "69afb7dcd31f5afe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/person template.md",
+                "file": "pages/kings/ill or illa ( इल इला ).md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/person template.md",
+                "file": "pages/kings/ill or illa ( इल इला ).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/person template.md",
+                "file": "pages/kings/ill or illa ( इल इला ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/person template.md"
+                "file": "pages/kings/ill or illa ( इल इला ).md"
               }
             }
           },
@@ -160,44 +160,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "63facf444a8c358c",
+  "active": "69afb7dcd31f5afe",
   "lastOpenFiles": [
-    "pages/apsaras/Apsara Suruchi (सुरुचि).md",
-    "pages/apsaras/Untitled.md",
+    "template/Person.md",
+    "pages/kings/ill or illa ( इल इला ).md",
+    "pages/Budh (बुध).md",
     "template/person template.md",
-    "pages/common people/Untitled.md",
+    "pages/Pururava (पुरुरवा).md",
+    "pages/Kardam ( कर्दम ).md",
+    "canvas/Homepage.canvas",
+    "canvas/Map of Material & Spiritual World.canvas",
+    "pages/munis/Krishna Dvaipayana Vyas.md",
+    "pages/munis/Four Kumars (सनकादि ऋषि).md",
+    "template/Image Gallery.md",
+    "template/demo.md",
+    "pages/munis/Sanātana (सनातन).md",
+    "pages/munis/Sanaka (सनक).md",
+    "pages/munis/Muni Vasiṣṭha (वसिष्ठ).md",
+    "pages/munis/Sanāt-Kumāra (सनत-कुमार).md",
+    "pages/munis/Sukadeva Gosvami.md",
     "pages/other species/Jambavant (जाम्बवन्त).md",
     "pages/other species/Hanuman Ji (हनुमन्).md",
-    "template/demo.md",
-    "canvas/Homepage.canvas",
-    "pages/munis/Sutikshn Muni (सुतीक्ष्‍ण).md",
-    "pages/munis/Sanātana (सनातन).md",
-    "pages/munis/Sanāt-Kumāra (सनत-कुमार).md",
-    "pages/munis/Sanandana (सनन्दन).md",
-    "pages/munis/Sanaka (सनक).md",
-    "pages/munis/Muni Vishvamitra (विश्वामित्र).md",
-    "pages/munis/Muni Vasiṣṭha (वसिष्ठ).md",
-    "pages/munis/Muni Valmiki (वाल्मीकि).md",
-    "pages/munis/Muni Parāśara (पराशर).md",
-    "pages/munis/Muni Bhrigu (भृगु).md",
     "pages/munis/Muni Bharadvaja (भारद्वाज).md",
-    "pages/munis/Four Kumars (सनकादि ऋषि).md",
-    "pages/munis/Agastya Muni(अगस्त्य).md",
-    "pages/kings/Dasharatha (दशरथ).md",
-    "pages/kings/Bharata (भरत).md",
+    "pages/munis/Muni Bhrigu (भृगु).md",
+    "pages/munis/Muni Parāśara (पराशर).md",
+    "pages/munis/Muni Valmiki (वाल्मीकि).md",
+    "pages/munis/Muni Vishvamitra (विश्वामित्र).md",
+    "pages/munis/Sanandana (सनन्दन).md",
     "pages/kings/Arishtanemi (अरिष्टनेमि).md",
-    "pages/devtas/Indra (इंद्र ).md",
-    "pages/common people/Sushena(सुषेण).md",
-    "pages/common people/Karunya (कारुण्य).md",
+    "pages/kings/Bharata (भरत).md",
     "canvas/Prashnigarbh (पृश्निगर्भ).canvas",
+    "images/image.png",
+    "images/image.png.crdownload",
+    "pages/kings/Dasharatha (दशरथ).md",
+    "images/illa.jpeg",
+    "images/ill.jpeg",
     "images/sutikshn_1.png",
     "images/lnvz3p5k8lr51.png",
     "images/sutikshn.jpg",
-    "canvas/Map of Material & Spiritual World.canvas",
     "others/Gaudiya Vansh Parampara.canvas",
     "images/ram_gallery_1/arishtanemi_1.jpg",
     "images/ram_gallery_1/arishtanemi.jpg",
@@ -205,10 +208,7 @@
     "images/ram_gallery_1/brahma.jpg",
     "images/ram_gallery_1",
     "images/New folder",
-    "images/arishtanemi_1.jpg",
-    "images/arishtanemi.jpg",
     "canvas/Untitled.canvas",
-    "images/agniveshya.jpg",
     "images/Untitled.canvas",
     "pages/devtas",
     "canvas/पृश्निगर्भ (Prashnigarbh).canvas",
@@ -218,7 +218,6 @@
     "pages/kings",
     "pages/common people",
     "pages/avatars and plenary portions of krsna",
-    "pages/apsaras",
     "canvas/Narayan.canvas",
     "Narayan.canvas",
     "Brahma.canvas"
